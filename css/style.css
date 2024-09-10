@@ -2365,7 +2365,7 @@ blockquote {
 }
 
 #hint3 {
-    background-image: url('https://github.com/binothegamer/Round3-DevQuest/blob/main/images/inkpx-word-art.png');
+    background-image: url('/images/inkpx-word-art.png');
     /*background-size: cover;*/
     background-size: cover; /* Ensures the image covers the button entirely */
     background-position: center; /* Centers the image */
